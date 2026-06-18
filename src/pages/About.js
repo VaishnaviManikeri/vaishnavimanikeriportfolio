@@ -1,7 +1,7 @@
 // src/pages/About.js
 import React from 'react';
 import { motion } from 'framer-motion';
-import { CodeBracketIcon, AcademicCapIcon, BriefcaseIcon, UserGroupIcon, ComputerDesktopIcon } from '@heroicons/react/24/outline';
+import { CodeBracketIcon, AcademicCapIcon, BriefcaseIcon, ComputerDesktopIcon } from '@heroicons/react/24/outline';
 
 const About = () => {
   const stats = [

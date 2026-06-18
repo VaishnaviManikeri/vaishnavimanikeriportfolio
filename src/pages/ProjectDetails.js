@@ -9,7 +9,6 @@ import {
   CalendarIcon, 
   TagIcon,
   ShareIcon,
-  ClipboardDocumentIcon,
   CheckIcon
 } from '@heroicons/react/24/outline';
 
